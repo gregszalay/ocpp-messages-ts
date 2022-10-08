@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gregszalay/ocpp-messages-ts"
+  },
   "keywords": [
     "OCPP",
     "ocpp",
@@ -15,8 +19,9 @@
     "charging",
     "chargingstation"
   ],
-  "author": "gergelyszalay.hu",
+  "author": "Gergely Szalay <gr.szalay@gmail.com> (gergelyszalay.hu)",
   "license": "Apache-2.0",
+  "private": false,
   "dependencies": {
     "json-schema-to-typescript": "^11.0.2"
   },
@@ -24,5 +29,3 @@
     "typescript": "^4.8.4"
   }
 }
-
-
