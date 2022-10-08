@@ -1,0 +1,28 @@
+{
+  "name": "ocpp-messages-ts",
+  "version": "1.0.0",
+  "description": "Typescript data types for the Open Charge Point Protocol (OCPP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OCPP",
+    "ocpp",
+    "2.0.1",
+    "EV",
+    "charger",
+    "charging",
+    "chargingstation"
+  ],
+  "author": "gergelyszalay.hu",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "json-schema-to-typescript": "^11.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
+
+
