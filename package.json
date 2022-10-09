@@ -1,6 +1,6 @@
 {
   "name": "ocpp-messages-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript data types for the Open Charge Point Protocol (OCPP)",
   "main": "index.js",
   "scripts": {

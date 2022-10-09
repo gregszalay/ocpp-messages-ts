@@ -8,7 +8,7 @@
 
 // Example using the MeterValueType in one of the types in my app
 
-    import MeterValueType from "ocpp-messages-ts/TransactionEventRequest"
+    import { MeterValueType } from "ocpp-messages-ts/types/TransactionEventRequest";
 
     type MyTransactionType = {
         DeviceId                 :string;
